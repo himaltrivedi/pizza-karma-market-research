@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+reports/
+.census_key
+.ticketmaster_key
+.DS_Store
